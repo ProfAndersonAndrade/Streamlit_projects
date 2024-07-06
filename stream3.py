@@ -44,3 +44,4 @@ if image:
         st.image('last_image.jpeg')
 else:
     st.warning('Ainda não temos imagem!')
+    
